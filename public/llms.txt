@@ -1,0 +1,80 @@
+# נערות — Generative Engine Optimization Map
+
+> A visually appealing catalog-style website designed to showcase images with phone numbers displayed beneath each one. The site functions as a directory or portfolio of entries, each represented by a photo and contact information. The emphasis is on clean, attractive presentation of visual content paired with easy-to-find contact details.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ברוכים הבאים לאתר נערות עם תמונות ומספרי טלפון — הקטלוג המוביל בישראל. עיינו בפרופילים מרהיבים, מצאו את מי שחיפשתם והתקשרו ישירות עכשיו!
+
+### גלריה
+https://example.com/gallery
+הגלריה של נערות מציגה תמונות אמיתיות לצד מספרי טלפון נגישים — חווית גלישה נקייה, מהירה ומרשימה. מצאו את הפרופיל המושלם ויצרו קשר ברגע זה!
+
+### אודות
+https://example.com/about
+גלו מי אנחנו ולמה קטלוג נערות בישראל שלנו הפך לכתובת המועדפת. שקיפות, עיצוב מרשים ונגישות מלאה — כל זה במקום אחד שתוכלו לסמוך עליו.
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלות על קטלוג נערות בישראל או רוצים להצטרף? צרו קשר עכשיו ונחזור אליכם במהירות. אנחנו כאן כדי לעזור ולוודא שתמצאו בדיוק את מה שחיפשתם!
+
+### Products
+https://example.com/products
+המוצרים שלנו - נערות
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - נערות
+
+### Category
+https://example.com/category/:slug
+מוצרים - נערות
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About נערות
+A visually appealing catalog-style website designed to showcase images with phone numbers displayed beneath each one. The site functions as a directory or portfolio of entries, each represented by a photo and contact information. The emphasis is on clean, attractive presentation of visual content paired with easy-to-find contact details.
+
+## Target Audience
+- מקצוענים צעירים עירוניים
+- סטודנטים ובוגרי מכללות
+- חובבי אירועים חברתיים
+
+## Industry
+General
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
